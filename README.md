@@ -73,11 +73,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-Instagram - https://www.instagram.com/sagar_____1934?igsh=MXIxOGd6dzRjczExMw==
-LinkedIn  - https://www.linkedin.com/in/sagardhar040604?utm_source=share_via&utm_content=profile&utm_medium=member_android
----
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=sagardhar190340\&color=blue)
 

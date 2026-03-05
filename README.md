@@ -64,7 +64,7 @@
 
 ---
 
-## 🎯 Goals for 2026
+## 🎯 Future Goals
 
 * Master Ethical Hacking
 * Learn Digital Forensics

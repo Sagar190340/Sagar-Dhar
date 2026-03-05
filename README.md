@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sagar Dhar</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacking Learner | Future Digital Forensics Specialist</h3>
+<p align="center">
+  <img src="banner.png" alt="Sagar Dhar Cybersecurity Banner" width="100%">
+</p>
 
+<h1 align="center">Hi 👋, I'm Sagar Dhar</h1>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacking Learner | Future Digital Forensics Specialist</h
 ---
 
 ## 🚀 About Me

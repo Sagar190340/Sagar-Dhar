@@ -1,78 +1,21 @@
-<p align="center">
-  <img src="banner.png" alt="Sagar Dhar Cybersecurity Banner" width="100%">
-</p>
+# ITS OVER – Web Security Scanner
 
-<h1 align="center">Hi 👋, I'm Sagar Dhar</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacking Learner | Future Digital Forensics Specialist</h
----
+A tiny, Python‑only helper that:
 
-## 🚀 About Me
+* fetches a URL,
+* checks for common security‑header mis‑configurations,
+* looks for suspicious JavaScript patterns,
+* validates TLS/HTTPS,
+* (optionally) queries VirusTotal for a quick malware verdict.
 
-🔐 Passionate about **Cybersecurity, Ethical Hacking, and Digital Forensics**
+```bash
+# Install dependencies
+pip install -r requirements.txt
 
-🎓 Currently studying **Cybersecurity & Ethical Hacking**
+# Run a scan
+python its_over.py https://example.com
+```
 
-💻 Interested in building **security tools, scripts, and cybersecurity learning resources**
+Feel free to extend the keyword list, add deeper analyses, or hook this into CI pipelines.
 
-🌱 Currently learning:
-
-* Network Security
-* Ethical Hacking
-* Kali Linux
-* Penetration Testing
-* Digital Forensics
-
----
-
-## 🛠 Tools & Technologies
-
-* Kali Linux
-* Linux
-* Python
-* C
-* C++
-* Nmap
-* Wireshark
-* Burp Suite
-* Metasploit
-* HTML
-* CSS
-* JavaScript
-* Microsoft Office
-* AI Tools
-
----
-
-## 📈 Programming Languages
-
-* Python
-* C
-* C++
-* HTML
-* CSS
-* JavaScript
-
----
-
-## 📂 Cybersecurity Projects
-
-* SQL Injection Scanner
-* Nmap Automation Script
-* Linux Security Scripts
-* Cybersecurity Notes & Labs
-* Kali Linux Command Cheatsheet
-
----
-
-## 🎯 Future Goals
-
-* Master Ethical Hacking
-* Learn Digital Forensics
-* Build multiple Cybersecurity Tools
-* Contribute to Open Source Security Projects
-
----
-
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=sagardhar190340\&color=blue)
-
+*Created by Sagar Dhar – 2026*
